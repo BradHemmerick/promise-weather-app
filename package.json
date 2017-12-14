@@ -1,0 +1,23 @@
+{
+  "name": "promise-weather-app",
+  "version": "1.0.0",
+  "description": "A simple CLI weather app built using promises instead of callbacks.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradHemmerick/promise-weather-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradHemmerick/promise-weather-app/issues"
+  },
+  "homepage": "https://github.com/BradHemmerick/promise-weather-app#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "yargs": "^10.0.3"
+  }
+}
